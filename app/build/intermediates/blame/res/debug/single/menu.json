@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/daniel/repositorioGit/Teste/app/build/intermediates/res/merged/debug/menu/cast_player_menu.xml",
+        "source": "/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.8.3/res/menu/cast_player_menu.xml"
+    },
+    {
         "merged": "/home/daniel/repositorioGit/Teste/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/home/daniel/repositorioGit/Teste/app/src/main/res/menu/menu_main.xml"
     }

@@ -2,11 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jar="/home/daniel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_a02e530523695c10938209e1a9125937a7edd6ec.jar" />
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_81df63c46ee4ebb85f6989bceaf58be2639f6eda.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19d395db2dd203414bb4e1aab7e54a3d877fecc0">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.2.1_9ac0465ec999fc687acb9171c7596b5b54b1d8c0.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8c5e219a0aebe2bee4ea94757fe5c387146f9a6">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_222d81d8401b6f57ce7663193e7195ed5840a299.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_56e4cfce20da9954994c17ccae4c44d350329d5e.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_da5fdea71918a1f4a9716c866e0265450b48443e.jar" />
     </item>
     <item
         jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
@@ -16,27 +44,6 @@
         <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_38f1379e5d6b585a8541cc3462b198b552ff4345.jar" />
     </item>
     <item
-        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_f5474ea0f706cd5104ee3332b56dea50335c12cf.jar" />
-    </item>
-    <item
-        jar="/home/daniel/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_5f8c469dc68f3d3a23bffe57d70f256ec20fe3e2.jar" />
-    </item>
-    <item
-        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_61cbe15f9c78f26d493f96629e42af6bd75aa321.jar" />
-    </item>
-    <item
         jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -44,11 +51,67 @@
         <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_7b33971b2547c22f36611ee7326bd98a88b90f93.jar" />
     </item>
     <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.google.android.libraries.cast.companionlibrary/ccl/2.8.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6560c174d0626f3bbb344065ec4158bbc84c6e25">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.google.android.libraries.cast.companionlibrary-ccl-2.8.3_e605c47755eb7457e02c1ab9a5c6af1776d313be.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_9486e6a348a4dfbb34c16b7cadd478e72ed89938.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_7947037e86f7af7a3b5a7e0b5ad6b86b70b0c527.jar" />
+    </item>
+    <item
         jar="/home/daniel/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.3.0/d80c992698584d6252a39a6babf916dda06769f4/nanohttpd-2.3.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="d80c992698584d6252a39a6babf916dda06769f4">
         <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/nanohttpd-2.3.0_a344639a70b77ff3fcb475eb2ace3b2792f8e577.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_d410deb6dfeb739aa64d956c9fbfac042778a0e2.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_fc1632cffbed254f52b6f14b0ce42550395b4e97.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bcee2598dbb74f6d043225a0d7e178b0c7ea4006">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.2.1_e2debf6693ed4eb083415ec28e76fe2b98b82059.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_6d8797e8363818e03672fe041c0c535f1dfe1191.jar" />
+    </item>
+    <item
+        jar="/home/daniel/repositorioGit/Teste/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/daniel/repositorioGit/Teste/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_3656cbe7ab04641c8b95aa0c4713d6dd85c03980.jar" />
     </item>
 
 </items>

@@ -25,4 +25,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.android.support:design:23.1.1'
     compile 'org.nanohttpd:nanohttpd:2.3.0'
+    compile 'com.google.android.libraries.cast.companionlibrary:ccl:2.8.3'
 }
